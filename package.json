@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/eperkins10/traceability-lab#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "rollbar": "^2.24.0"
   }
 }
